@@ -1,1 +1,0 @@
-# svelte-file-folder-component
