@@ -1,5 +1,8 @@
 # Svelte + TS + Vite
 
+Application URL - https://serene-bienenstitch-e9b100.netlify.app
+email- surajsachan@gmail.com
+password - password
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
 ## Recommended IDE Setup
